@@ -25,7 +25,7 @@ BUILD LINUX
 
 2) cd neos-core/src
 
-3) sudo make -f makefile.unix            # Headless
+3) make -f makefile.unix            # Headless
 
 (optional)
 
